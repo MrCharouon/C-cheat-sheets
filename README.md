@@ -6,11 +6,13 @@
 
 ```sh
 gcc [programName].c -o programName
+./programName
 ```
 
 #### for c++ programs
 ```sh
 c++ [programName].cc -o programName
+./programName
 ```
 
 
